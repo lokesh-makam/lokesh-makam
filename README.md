@@ -19,6 +19,7 @@ GitHub 👉 https://github.com/lokesh-makam
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=lokesh-makam&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-makam&layout=compact&theme=dark&hide_border=true)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lokesh-makam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lokesh-makam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-makam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
